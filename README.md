@@ -1,5 +1,3 @@
-## Project URL: 
-https://github.com/Aryan-Saraswat05/PortfolioWebsite
 # Aryan Saraswat's Portfolio
 
 This is a simple HTML-only portfolio designed to showcase my work and achievements as a frontend developer. The layout is structured for readability and organization without external CSS or frameworks.
@@ -27,12 +25,18 @@ This is a simple HTML-only portfolio designed to showcase my work and achievemen
   - Features feedback from professors, emphasizing my academic dedication and performance.
 - **Footer**: Concludes the page with a copyright notice.
 
+## Screenshot
 
+![Portfolio Screenshot](image.png)
 
 ## How to Use
 
 1. Open the `index.html` file in any web browser.
 2. Navigate through the sections to view my projects, experiences, and achievements.
+
+## Repository
+
+This project is hosted on GitHub. Check out the full code here: [Portfolio Website Repository](https://github.com/Aryan-Saraswat05/PortfolioWebsite)
 
 ## Future Enhancements
 
@@ -46,4 +50,4 @@ This portfolio is for personal use and demonstration purposes only. Feel free to
 
 ---
 
-Built with ❤️ by Aryan Saraswat
+Built with ❤️ by [Aryan Saraswat](https://github.com/Aryan-Saraswat05)
